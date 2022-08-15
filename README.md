@@ -1,4 +1,6 @@
 # Cyclistic-Bikes-Share-Analysis-Google-capstone-project-
-This is a case study project from the google data analytics certificate course
-The script.R file contains the code i wrote on Rstudio
-The Rmarkdown.Rmd is the markdown of the script 
+1.This is a case study project from the google data analytics certificate course.
+2.The script.R file contains the code i wrote on Rstudio.
+3.The Rmarkdown.Rmd is the markdown of the script 
+4.data vz where done via excel
+
